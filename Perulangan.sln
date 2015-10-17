@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "Perulangan", "Perulangan.exe", "{3D6002A4-219B-4D2A-93E0-006E5FB9B508}"
+	ProjectSection(DebuggerProjectSystem) = preProject
+		PortSupplier = 00000000-0000-0000-0000-000000000000
+		Executable = C:\Users\Fajar\Documents\GitHub\tugas-2015-03-astinda\Perulangan.exe
+		RemoteMachine = FAJAR-PC
+		StartingDirectory = C:\Users\Fajar\Documents\GitHub\tugas-2015-03-astinda
+		Environment = Default
+		LaunchingEngine = 00000000-0000-0000-0000-000000000000
+		LaunchSQLEngine = No
+		AttachLaunchAction = No
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D6002A4-219B-4D2A-93E0-006E5FB9B508}.Debug|x86.ActiveCfg = Debug|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
